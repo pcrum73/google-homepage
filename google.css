@@ -1,0 +1,49 @@
+#ulHead {
+	text-align: right;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	padding-left: 2px;
+	display: inline-block;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+	padding-top: 150px;
+	width: 275px;
+}
+
+input 
+{
+	display: block;
+	margin: auto;
+	width: 550px;
+	height: 25px;
+	padding-left: 10px;
+}
+
+#btnSearch
+{
+	margin-left: 850px;
+	padding: 5px;
+}
+
+#btnLucky
+{
+	margin-left: 10px;
+	padding: 5px;
+}
+
+#ulFoot {
+	text-align: right;
+	display: block;
+	padding-top: 450px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	overflow: auto;
+}
